@@ -1,0 +1,19 @@
+@import "colors";
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  overflow-x: hidden;
+
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  font-family: 'Montserrat', sans-serif;
+}

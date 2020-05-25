@@ -1,0 +1,18 @@
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% + 32px);
+  margin: 0px -16px;
+  background-color: $primary;
+  box-shadow: 0 10px 5px -6px rgba(0, 0, 0, 0.29);
+  height: 56px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  .Logo {
+    height: 28px;
+    user-select: none;
+  }
+}

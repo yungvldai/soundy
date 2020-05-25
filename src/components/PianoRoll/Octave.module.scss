@@ -1,0 +1,100 @@
+@import "Consts";
+
+$leftHand: (
+  thumb: #001493,
+  index: #992B2B,
+  middle: #1A7304,
+  ring: #F4B500,
+  little: #820585
+);
+
+$rightHand: (
+  thumb: #0020EA,
+  index: #FF4343,
+  middle: #36C114,
+  ring: #EFF400,
+  little: #DC2EDF
+);
+
+$hands: (
+  left: $leftHand,
+  right: $rightHand
+);
+
+@each $handKey, $hand in $hands {
+  @each $fingerKey, $color in $hand {
+    .#{$handKey}-#{$fingerKey} {
+      background-color: $color !important;
+      &:before {
+        background-color: $color !important;
+      }
+    }
+  }
+}
+
+.Octave {
+  display: flex;
+  margin: 0px 1px;
+  &:last-child {
+    margin-right: 0;
+  }
+  &:first-child {
+    margin-left: 0;
+  }
+  .Key {
+    position: relative;
+    &:hover {
+      &:after {
+        display: block;
+      }
+    }
+    &:after {
+      content: attr(data-note);
+      position: absolute;
+      left: 0px;
+      top: -24px;
+      width: 100%;
+      text-align: center;
+      display: none;
+    }
+  }
+  .Tone {
+    z-index: 1;
+    height: $toneKeyHeight;
+    width: $toneKeyWidth;
+    background-color: white;
+    margin: 0px 1px;
+    border-radius: 4px;
+    &:hover {
+      background-color: #D2D2D2;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+  .Semitone {
+    width: 0px;
+    z-index: 2;
+    &:after {
+      left: -14px;
+    }
+    &:hover {
+      &:before {
+        background-color: #6C6C6C;
+      }
+    }
+    &:before {
+      border-radius: 4px;
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -7px;
+      background-color: black;
+      height: 70px;
+      width: 14px;
+    }
+  }
+}

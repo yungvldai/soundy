@@ -1,0 +1,29 @@
+.Control {
+  position: fixed;
+  bottom: 160px;
+  width: 100%;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .Button {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 4px;
+    background-color: $primary;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    user-select: none;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .20);
+    &:active {
+      box-shadow: none;
+    }
+    i {
+      color: white;
+      font-size: 40px;
+    }
+  }
+}

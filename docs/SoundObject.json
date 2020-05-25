@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "soundName": "Fur Elize",
+    "author": "Ludwig van Beethoven"
+  },
+  "payload": {
+    "_t": {
+      "12423": ["NoteObject", "..."]
+    },
+    "bgSoundURL": ""
+  },
+  "soundy": {
+    "c_version": "1.0",
+    "t_version": "1.0"
+  }
+}

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbd5383e-57c2-45bc-8e0a-e7fb330a1c28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bot/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/blocks/Delimeter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/blocks/Paragraph.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/drafty.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/editor/Drafty.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/helpers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/initialBlocks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/log.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/mixins/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/mixins/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/mixins/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/blockUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/caretUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/selectionUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/styleUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/NoteObject.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/SoundObject.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Audio/Audio.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Control/Control.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Control/Control.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/Consts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/Octave.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/Octave.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/PianoRoll.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/PianoRoll.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cGbzZqGfB3opJcWflkiAJXv2Ap" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/craco.config.js" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.webpack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vivanov\workspace\super\soundy\src\components\MusicSheet" />
+      <recent name="C:\Users\vivanov\workspace\super\soundy\src\icons" />
+      <recent name="C:\Users\vivanov\workspace\super\soundy\src\components\PianoRoll" />
+      <recent name="C:\Users\vivanov\workspace\super\soundy\src" />
+      <recent name="C:\Users\vivanov\workspace\super\soundy\src\pages\LearnToPlay" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd5383e-57c2-45bc-8e0a-e7fb330a1c28" name="Default Changelist" comment="" />
+      <created>1590158140951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590158140951</updated>
+      <workItem from="1590158144259" duration="10191000" />
+      <workItem from="1590407293546" duration="24514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590418005040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="309" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590418005040" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1590409764848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590409764848" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1590409769212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590409769212" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1590437109268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590437109268" />
+  </component>
+</project>
