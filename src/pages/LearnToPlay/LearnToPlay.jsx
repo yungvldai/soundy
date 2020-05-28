@@ -21,7 +21,7 @@ class LearnToPlay extends Component {
   }
 
   getDuration() {
-    return this.audioControl.current.duration;
+    return this.audioControl.current ? this.audioControl.current.duration : 0;
   }
 
   soundPlay() {
@@ -52,7 +52,6 @@ class LearnToPlay extends Component {
   componentDidMount() {
     this.audioControl.current.addEventListener('timeupdate', this.timeUpdated);
     this.audioControl.current.addEventListener('ended', this.soundStop);
-    this.duration = this.getDuration();
   }
 
   componentWillUnmount() {
@@ -72,11 +71,12 @@ class LearnToPlay extends Component {
           )
         }
         <div className={classes.SheetsContainer}>
-          <MusicSheet />
-          <MusicSheet />
+          <MusicSheet clef="treble" />
+          <MusicSheet clef="bass" />
         </div>
         <Control
           isPlaying={this.state.isPlaying}
+          progress={this.state.time / this.getDuration()}
 
           play={this.soundPlay}
           pause={this.soundPause}

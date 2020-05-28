@@ -27,26 +27,20 @@
       <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/caretUtils.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/selectionUtils.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../drafty-vue/lib/utils/styleUtils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/NoteObject.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/SoundObject.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Audio/Audio.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Control/Control.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Control/Control.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/Consts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/Octave.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/Octave.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/PianoRoll.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PianoRoll/PianoRoll.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Control/ProgressBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MusicSheet/Clefs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/media.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Control.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Control.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Control/Control.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Control/Control.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MusicSheet/MusicSheet.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LearnToPlay/LearnToPlay.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/static/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/colors.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cGbzZqGfB3opJcWflkiAJXv2Ap" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590158140951</updated>
       <workItem from="1590158144259" duration="10191000" />
-      <workItem from="1590407293546" duration="24514000" />
+      <workItem from="1590407293546" duration="36718000" />
     </task>
     <servers />
   </component>

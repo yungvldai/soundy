@@ -1,9 +1,24 @@
 .MusicSheet {
   width: 100%;
+  position: relative;
   .Line {
     height: 2px;
     background-color: black;
     width: 100%;
-    margin: 28px 0;
+    margin: 24px 0;
+  }
+  .TrebleClef {
+    position: absolute;
+    height: 162px;
+    left: 24px;
+    top: 4px;
+    user-select: none;
+  }
+  .BassClef {
+    position: absolute;
+    height: 80px;
+    left: 24px;
+    top: 24px;
+    user-select: none;
   }
 }
